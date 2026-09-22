@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body{
+background:#0B0F19;
+color:white;
+font-family:sans-serif;
+margin:0;
+padding:0;
+}
+
+button{
+cursor:pointer;
+}
+
+html{
+  scroll-behavior: smooth;
+}
